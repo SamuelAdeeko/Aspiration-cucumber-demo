@@ -536,3 +536,89 @@ clicked on Get Aspirations Plus
 Aspiration plus Modal is displayed
 nText == $71.88
 rText == $7.99
+Initializing chrome driver
+Initializing chrome driver
+Initializing chrome driver
+Initializing chrome driver
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:43:03
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:43:06
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:43:08
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:43:09
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:49:31
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:49:34
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:49:36
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:49:38
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:53:50
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:53:53
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:53:55
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:53:57
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:54:47
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:54:50
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:54:52
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:54:54
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:57:36
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:57:39
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:57:41
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 09:57:43
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 10:01:33
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 10:01:36
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 10:01:38
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 10:01:40
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 10:02:24
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 10:02:27
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 10:02:29
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing chrome driver                     30-Sep-2021 Thursday PDT 10:02:30
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:04:50
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:04:53
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:04:55
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:04:57
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:11:45
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:11:48
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:11:50
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:11:52
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:16:26
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:16:28
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:16:30
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:16:32
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:32:25
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:32:28
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:32:30
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:32:32
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:51:46
+{INFO}  stepDefinitions.AbstractStepDefinition   chrome browser object created                     30-Sep-2021 Thursday PDT 10:51:48
+{INFO}  stepDefinitions.HomePage   implicit wait for 5 seconds                     30-Sep-2021 Thursday PDT 10:51:48
+{INFO}  stepDefinitions.HomePage   opened website                     30-Sep-2021 Thursday PDT 10:51:54
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     30-Sep-2021 Thursday PDT 10:51:54
+{INFO}  stepDefinitions.HomePage   accepted cookie                     30-Sep-2021 Thursday PDT 10:51:55
+{INFO}  stepDefinitions.HomePage   i slept for 4000ms                     30-Sep-2021 Thursday PDT 10:51:59
+{INFO}  stepDefinitions.HomePage   about to click spend and save                     30-Sep-2021 Thursday PDT 10:51:59
+{INFO}  stepDefinitions.HomePage   clicked spend and save                     30-Sep-2021 Thursday PDT 10:52:03
+{INFO}  stepDefinitions.HomePage   Aspiration                     30-Sep-2021 Thursday PDT 10:52:03
+{INFO}  stepDefinitions.HomePage   Aspiration Plus                     30-Sep-2021 Thursday PDT 10:52:03
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:52:03
+{INFO}  stepDefinitions.AbstractStepDefinition   chrome browser object created                     30-Sep-2021 Thursday PDT 10:52:05
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:52:05
+{INFO}  stepDefinitions.AbstractStepDefinition   chrome browser object created                     30-Sep-2021 Thursday PDT 10:52:07
+{INFO}  stepDefinitions.ProductPageSteps   Navigated to previous product page.                     30-Sep-2021 Thursday PDT 10:52:07
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:52:07
+{INFO}  stepDefinitions.AbstractStepDefinition   chrome browser object created                     30-Sep-2021 Thursday PDT 10:52:09
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     30-Sep-2021 Thursday PDT 10:53:05
+{INFO}  stepDefinitions.AbstractStepDefinition   chrome browser object created                     30-Sep-2021 Thursday PDT 10:53:07
+{INFO}  stepDefinitions.HomePage   implicit wait for 5 seconds                     30-Sep-2021 Thursday PDT 10:53:07
+{INFO}  stepDefinitions.HomePage   opened website                     30-Sep-2021 Thursday PDT 10:53:13
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     30-Sep-2021 Thursday PDT 10:53:13
+{INFO}  stepDefinitions.HomePage   accepted cookie                     30-Sep-2021 Thursday PDT 10:53:13
+{INFO}  stepDefinitions.HomePage   i slept for 4000ms                     30-Sep-2021 Thursday PDT 10:53:17
+{INFO}  stepDefinitions.HomePage   about to click spend and save                     30-Sep-2021 Thursday PDT 10:53:17
+{INFO}  stepDefinitions.HomePage   clicked spend and save                     30-Sep-2021 Thursday PDT 10:53:21
+{INFO}  stepDefinitions.HomePage   Aspiration                     30-Sep-2021 Thursday PDT 10:53:22
+{INFO}  stepDefinitions.HomePage   Aspiration Plus                     30-Sep-2021 Thursday PDT 10:53:22
+{INFO}  stepDefinitions.ProductPageSteps   Get Aspirations is displayed                     30-Sep-2021 Thursday PDT 10:53:22
+{INFO}  stepDefinitions.ProductPageSteps   clicked on Get Aspirations                     30-Sep-2021 Thursday PDT 10:53:22
+{INFO}  stepDefinitions.ProductPageSteps   modal contains email address input fields                     30-Sep-2021 Thursday PDT 10:53:23
+{INFO}  stepDefinitions.ProductPageSteps   Navigated to previous product page.                     30-Sep-2021 Thursday PDT 10:53:26
+{INFO}  stepDefinitions.ProductPageSteps   clicked spend and save                     30-Sep-2021 Thursday PDT 10:53:29
+{INFO}  stepDefinitions.ProductPageSteps   clicked on Get Aspirations Plus                     30-Sep-2021 Thursday PDT 10:53:30
+{INFO}  stepDefinitions.ProductPageSteps   Aspiration plus Modal is displayed                     30-Sep-2021 Thursday PDT 10:53:30
+{INFO}  stepDefinitions.ProductPageSteps   nText == $71.88                     30-Sep-2021 Thursday PDT 10:53:30
+{INFO}  stepDefinitions.ProductPageSteps   rText == $7.99                     30-Sep-2021 Thursday PDT 10:53:30

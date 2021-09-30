@@ -29,8 +29,8 @@ public class HomePage extends AbstractStepDefinition{
 				driver.manage().window().maximize();
 				
 				// implicit wait for page to load
-				driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-				log.info("implicit wait for 10 seconds");
+				driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+				log.info("implicit wait for 5 seconds");
 				
 		         // create a file input stream
 		        FileInputStream inputStream = new FileInputStream("/Users/adekoyaadeeko/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE"
