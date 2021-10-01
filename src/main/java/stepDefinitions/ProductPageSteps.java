@@ -1,18 +1,14 @@
 package stepDefinitions;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-
 import java.util.ArrayList;
 import java.util.List;
-
 import org.apache.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.How;
-
+import com.aspiration.Xpath;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -20,17 +16,18 @@ import io.cucumber.java.en.When;
 
 public class ProductPageSteps extends AbstractStepDefinition{
 
+	private Xpath xpath = new Xpath();
 	private WebDriver driver = getDriver();
 	private static Logger log = Logger.getLogger(ProductPageSteps.class);
 	
-	@FindBy(how=How.XPATH, using = "//button[@class='btn btn-v3 btn--blue ng-binding']") WebElement getAspiration;  //findElements(By.xpath("//button[@class='btn btn-v3 btn--blue ng-binding']
+	
 	
 	@Given("^After verifying Get Aspiration is displayed$")
     public void after_verifying_get_aspiration_is_displayed() throws Throwable {
 		
 		List<WebElement> element = new ArrayList<>();
 		
-		element = driver.findElements(By.xpath("//div[@class = 'plan-content']/h2"));
+		element = driver.findElements(By.xpath(xpath.aspirationPage));
 		boolean isFalse = element.get(0).isDisplayed();
 		Assert.assertTrue(isFalse);
 		log.info("Get Aspirations is displayed");
@@ -41,7 +38,7 @@ public class ProductPageSteps extends AbstractStepDefinition{
     	
     	List<WebElement> element = new ArrayList<>();
     	
-		element = driver.findElements(By.xpath("//button[@class='btn btn-v3 btn--blue ng-binding']"));
+		element = driver.findElements(By.xpath(xpath.aspirationCards));
 		element.get(0).click();
     
     	log.info("clicked on Get Aspirations");
@@ -50,7 +47,7 @@ public class ProductPageSteps extends AbstractStepDefinition{
     @Then("^A modal containing an input field for email address to sign up appears$")
     public void a_modal_containing_an_input_field_for_email_address_to_sign_up_appears() throws Throwable {
        
-    	driver.findElement(By.xpath("//input[@id='join-waitlist-input']")).isDisplayed();
+    	driver.findElement(By.xpath(xpath.emailField)).isDisplayed();
     
     	log.info("modal contains email address input fields");
   
@@ -75,7 +72,7 @@ public class ProductPageSteps extends AbstractStepDefinition{
         
     	List<WebElement> element = new ArrayList<>();
     	
-		element = driver.findElements(By.xpath("//button[@class='btn btn-v3 btn--blue ng-binding']"));
+		element = driver.findElements(By.xpath(xpath.aspirationCards));
 		element.get(1).click();
     
     	log.info("clicked on Get Aspirations Plus");
@@ -83,9 +80,8 @@ public class ProductPageSteps extends AbstractStepDefinition{
 
     @Then("^User verify that monthly and yearly modal appears$")
     public void user_verify_that_monthly_and_yearly_modal_appears() throws Throwable {
-    	//@FindBy(how =How.XPATH, using="//div[@class='modal-content']") WebElement aspirationPlusModal;
     	
-    	boolean isFalse = driver.findElement(By.xpath("//div[@class='modal-content']")).isDisplayed();
+    	boolean isFalse = driver.findElement(By.xpath(xpath.modal)).isDisplayed();
     	Assert.assertTrue(isFalse);
     	log.info("Aspiration plus Modal is displayed");
     }
@@ -97,7 +93,7 @@ public class ProductPageSteps extends AbstractStepDefinition{
     	
     	List<WebElement> rButton = new ArrayList<>();
 	
-		rButton = driver.findElements(By.xpath("//b[@class= 'ng-binding']"));
+		rButton = driver.findElements(By.xpath(xpath.radioButton));
 		String nText = rButton.get(0).getText();
 		log.info("nText == " + nText);
 		assertEquals("$71.88", nText);
@@ -108,7 +104,7 @@ public class ProductPageSteps extends AbstractStepDefinition{
        
     	List<WebElement> rButton = new ArrayList<>();
     	
-		rButton = driver.findElements(By.xpath("//b[@class= 'ng-binding']"));
+		rButton = driver.findElements(By.xpath(xpath.radioButton));
 		String rText = rButton.get(1).getText();
 		log.info("rText == " + rText);
     	assertEquals("$7.99", rText);
