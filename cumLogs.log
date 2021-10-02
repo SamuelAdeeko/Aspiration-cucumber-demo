@@ -978,3 +978,241 @@ Initializing chrome driver
 {INFO}  stepDefinitions.ProductPageSteps   Aspiration plus Modal is displayed                     01-Oct-2021 Friday PDT 00:31:00
 {INFO}  stepDefinitions.ProductPageSteps   nText == $71.88                     01-Oct-2021 Friday PDT 00:31:00
 {INFO}  stepDefinitions.ProductPageSteps   rText == $7.99                     01-Oct-2021 Friday PDT 00:31:00
+{INFO}  stepDefinitions.AbstractStepDefinition   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 11:48:54
+{INFO}  stepDefinitions.AbstractStepDefinition   chrome browser object created                     01-Oct-2021 Friday PDT 11:49:03
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 12:17:19
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 12:17:23
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 12:17:30
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 12:17:30
+{INFO}  stepDefinitions.ProductPageSteps   Navigated to previous product page.                     01-Oct-2021 Friday PDT 12:17:35
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 12:25:41
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 12:25:45
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 12:25:51
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 12:25:51
+{INFO}  stepDefinitions.ProductPageSteps   Navigated to previous product page.                     01-Oct-2021 Friday PDT 12:25:56
+{INFO}  stepDefinitions.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 12:31:01
+{INFO}  stepDefinitions.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 12:31:04
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 12:31:12
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 12:31:12
+{INFO}  stepDefinitions.ProductPageSteps   Navigated to previous product page.                     01-Oct-2021 Friday PDT 12:31:17
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 12:46:39
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 12:46:39
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 12:48:49
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 12:48:49
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 12:49:38
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 12:49:38
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 13:06:58
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 13:06:58
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 13:08:15
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 13:08:15
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 13:29:07
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 13:29:07
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 13:31:08
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 13:31:08
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 13:36:07
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 13:37:45
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 13:37:52
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 13:38:14
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 13:38:14
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 13:47:48
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 13:47:55
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 13:48:16
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 13:48:16
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 13:55:31
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 13:55:45
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 13:56:21
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 13:56:22
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 13:57:57
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 13:58:21
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 13:59:04
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 13:59:04
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 14:01:11
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 14:01:14
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 14:01:23
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 14:01:23
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 14:14:16
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 14:14:21
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 14:14:31
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 14:14:31
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 14:16:56
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 14:17:02
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 14:17:14
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 14:17:14
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 14:17:56
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 14:18:02
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 14:18:10
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 14:18:10
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 14:19:07
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 14:19:11
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 14:19:18
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 14:19:18
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 14:22:06
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 14:22:11
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 14:22:21
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 14:22:21
+{INFO}  stepDefinitions.HomePage   accepted cookie                     01-Oct-2021 Friday PDT 14:22:21
+{INFO}  stepDefinitions.HomePage   slept for 2000ms                     01-Oct-2021 Friday PDT 14:22:23
+{INFO}  stepDefinitions.HomePage   about to click spend and save                     01-Oct-2021 Friday PDT 14:22:23
+{INFO}  stepDefinitions.HomePage   clicked spend and save                     01-Oct-2021 Friday PDT 14:22:29
+{INFO}  stepDefinitions.HomePage   GET ASPIRATION                     01-Oct-2021 Friday PDT 14:22:29
+{INFO}  stepDefinitions.HomePage   GET ASPIRATION PLUS                     01-Oct-2021 Friday PDT 14:22:29
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 14:31:25
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 14:31:30
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 14:31:37
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 14:31:37
+{INFO}  stepDefinitions.HomePage   accepted cookie                     01-Oct-2021 Friday PDT 14:31:37
+{INFO}  stepDefinitions.HomePage   slept for 2000ms                     01-Oct-2021 Friday PDT 14:31:39
+{INFO}  stepDefinitions.HomePage   about to click spend and save                     01-Oct-2021 Friday PDT 14:31:39
+{INFO}  stepDefinitions.HomePage   clicked spend and save                     01-Oct-2021 Friday PDT 14:31:43
+{INFO}  stepDefinitions.HomePage   Aspiration                     01-Oct-2021 Friday PDT 14:31:43
+{INFO}  stepDefinitions.HomePage   Aspiration Plus                     01-Oct-2021 Friday PDT 14:31:43
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 14:33:18
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 14:33:21
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 14:33:28
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 14:33:28
+{INFO}  stepDefinitions.HomePage   accepted cookie                     01-Oct-2021 Friday PDT 14:33:28
+{INFO}  stepDefinitions.HomePage   slept for 2000ms                     01-Oct-2021 Friday PDT 14:33:30
+{INFO}  stepDefinitions.HomePage   about to click spend and save                     01-Oct-2021 Friday PDT 14:33:30
+{INFO}  stepDefinitions.HomePage   clicked spend and save                     01-Oct-2021 Friday PDT 14:33:35
+{INFO}  stepDefinitions.HomePage   Aspiration                     01-Oct-2021 Friday PDT 14:33:35
+{INFO}  stepDefinitions.HomePage   Aspiration Plus                     01-Oct-2021 Friday PDT 14:33:35
+{INFO}  stepDefinitions.HomePage   completed homepage                     01-Oct-2021 Friday PDT 14:33:35
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 14:34:50
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 14:34:54
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 14:35:01
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 14:35:01
+{INFO}  stepDefinitions.HomePage   accepted cookie                     01-Oct-2021 Friday PDT 14:35:01
+{INFO}  stepDefinitions.HomePage   slept for 2000ms                     01-Oct-2021 Friday PDT 14:35:03
+{INFO}  stepDefinitions.HomePage   about to click spend and save                     01-Oct-2021 Friday PDT 14:35:03
+{INFO}  stepDefinitions.HomePage   clicked spend and save                     01-Oct-2021 Friday PDT 14:35:08
+{INFO}  stepDefinitions.HomePage   Aspiration                     01-Oct-2021 Friday PDT 14:35:09
+{INFO}  stepDefinitions.HomePage   Aspiration Plus                     01-Oct-2021 Friday PDT 14:35:09
+{INFO}  stepDefinitions.HomePage   completed homepage                     01-Oct-2021 Friday PDT 14:35:09
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 14:35:09
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 14:35:11
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 14:35:29
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 14:35:31
+{INFO}  stepDefinitions.ProductPageSteps   Navigated to previous product page.                     01-Oct-2021 Friday PDT 14:35:38
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 14:37:42
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 14:37:45
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 14:37:53
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 14:37:53
+{INFO}  stepDefinitions.HomePage   accepted cookie                     01-Oct-2021 Friday PDT 14:37:53
+{INFO}  stepDefinitions.HomePage   slept for 2000ms                     01-Oct-2021 Friday PDT 14:37:55
+{INFO}  stepDefinitions.HomePage   about to click spend and save                     01-Oct-2021 Friday PDT 14:37:55
+{INFO}  stepDefinitions.HomePage   clicked spend and save                     01-Oct-2021 Friday PDT 14:37:59
+{INFO}  stepDefinitions.HomePage   Aspiration                     01-Oct-2021 Friday PDT 14:37:59
+{INFO}  stepDefinitions.HomePage   Aspiration Plus                     01-Oct-2021 Friday PDT 14:37:59
+{INFO}  stepDefinitions.HomePage   completed homepage                     01-Oct-2021 Friday PDT 14:37:59
+{INFO}  stepDefinitions.ProductPageSteps   Get Aspirations is displayed                     01-Oct-2021 Friday PDT 14:37:59
+{INFO}  stepDefinitions.ProductPageSteps   clicked on Get Aspirations                     01-Oct-2021 Friday PDT 14:37:59
+{INFO}  stepDefinitions.ProductPageSteps   modal contains email address input fields                     01-Oct-2021 Friday PDT 14:38:00
+{INFO}  stepDefinitions.ProductPageSteps   Navigated to previous product page.                     01-Oct-2021 Friday PDT 14:38:03
+{INFO}  stepDefinitions.ProductPageSteps   clicked spend and save                     01-Oct-2021 Friday PDT 14:38:07
+{INFO}  stepDefinitions.ProductPageSteps   clicked on Get Aspirations Plus                     01-Oct-2021 Friday PDT 14:38:07
+{INFO}  stepDefinitions.ProductPageSteps   Aspiration plus Modal is displayed                     01-Oct-2021 Friday PDT 14:38:08
+{INFO}  stepDefinitions.ProductPageSteps   nText == $71.88                     01-Oct-2021 Friday PDT 14:38:08
+{INFO}  stepDefinitions.ProductPageSteps   rText == $7.99                     01-Oct-2021 Friday PDT 14:38:08
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 14:43:11
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 14:43:15
+{INFO}  stepDefinitions.HomePage   implicit wait for 5 seconds                     01-Oct-2021 Friday PDT 14:43:15
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 14:43:23
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 14:43:23
+{INFO}  stepDefinitions.HomePage   accepted cookie                     01-Oct-2021 Friday PDT 14:43:23
+{INFO}  stepDefinitions.HomePage   slept for 2000ms                     01-Oct-2021 Friday PDT 14:43:25
+{INFO}  stepDefinitions.HomePage   about to click spend and save                     01-Oct-2021 Friday PDT 14:43:25
+{INFO}  stepDefinitions.HomePage   clicked spend and save                     01-Oct-2021 Friday PDT 14:43:29
+{INFO}  stepDefinitions.HomePage   Aspiration                     01-Oct-2021 Friday PDT 14:43:29
+{INFO}  stepDefinitions.HomePage   Aspiration Plus                     01-Oct-2021 Friday PDT 14:43:29
+{INFO}  stepDefinitions.HomePage   completed homepage                     01-Oct-2021 Friday PDT 14:43:29
+{INFO}  stepDefinitions.ProductPageSteps   Get Aspirations is displayed                     01-Oct-2021 Friday PDT 14:43:30
+{INFO}  stepDefinitions.ProductPageSteps   clicked on Get Aspirations                     01-Oct-2021 Friday PDT 14:43:30
+{INFO}  stepDefinitions.ProductPageSteps   modal contains email address input fields                     01-Oct-2021 Friday PDT 14:43:30
+{INFO}  stepDefinitions.ProductPageSteps   Navigated to previous product page.                     01-Oct-2021 Friday PDT 14:43:34
+{INFO}  stepDefinitions.ProductPageSteps   clicked spend and save                     01-Oct-2021 Friday PDT 14:43:38
+{INFO}  stepDefinitions.ProductPageSteps   clicked on Get Aspirations Plus                     01-Oct-2021 Friday PDT 14:43:39
+{INFO}  stepDefinitions.ProductPageSteps   Aspiration plus Modal is displayed                     01-Oct-2021 Friday PDT 14:43:39
+{INFO}  stepDefinitions.ProductPageSteps   nText == $71.88                     01-Oct-2021 Friday PDT 14:43:39
+{INFO}  stepDefinitions.ProductPageSteps   rText == $7.99                     01-Oct-2021 Friday PDT 14:43:39
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 14:52:40
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 14:52:44
+{INFO}  com.aspiration.base.TestBase   implicit wait for 5 seconds                     01-Oct-2021 Friday PDT 14:52:44
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 14:52:51
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 14:52:51
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 14:56:27
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 14:56:33
+{INFO}  com.aspiration.base.TestBase   implicit wait for 5 seconds                     01-Oct-2021 Friday PDT 14:56:34
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 14:56:44
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 14:56:44
+{INFO}  stepDefinitions.HomePage   accepted cookie                     01-Oct-2021 Friday PDT 14:56:44
+{INFO}  stepDefinitions.HomePage   slept for 2000ms                     01-Oct-2021 Friday PDT 14:56:46
+{INFO}  stepDefinitions.HomePage   about to click spend and save                     01-Oct-2021 Friday PDT 14:56:46
+{INFO}  stepDefinitions.HomePage   clicked spend and save                     01-Oct-2021 Friday PDT 14:56:52
+{INFO}  stepDefinitions.HomePage   Aspiration                     01-Oct-2021 Friday PDT 14:56:52
+{INFO}  stepDefinitions.HomePage   Aspiration Plus                     01-Oct-2021 Friday PDT 14:56:52
+{INFO}  stepDefinitions.HomePage   completed homepage                     01-Oct-2021 Friday PDT 14:56:52
+{INFO}  stepDefinitions.ProductPageSteps   Get Aspirations is displayed                     01-Oct-2021 Friday PDT 14:56:52
+{INFO}  stepDefinitions.ProductPageSteps   clicked on Get Aspirations                     01-Oct-2021 Friday PDT 14:56:53
+{INFO}  stepDefinitions.ProductPageSteps   modal contains email address input fields                     01-Oct-2021 Friday PDT 14:56:53
+{INFO}  stepDefinitions.ProductPageSteps   Navigated to previous product page.                     01-Oct-2021 Friday PDT 14:56:57
+{INFO}  stepDefinitions.ProductPageSteps   clicked spend and save                     01-Oct-2021 Friday PDT 14:57:01
+{INFO}  stepDefinitions.ProductPageSteps   clicked on Get Aspirations Plus                     01-Oct-2021 Friday PDT 14:57:02
+{INFO}  stepDefinitions.ProductPageSteps   Aspiration plus Modal is displayed                     01-Oct-2021 Friday PDT 14:57:02
+{INFO}  stepDefinitions.ProductPageSteps   nText == $71.88                     01-Oct-2021 Friday PDT 14:57:02
+{INFO}  stepDefinitions.ProductPageSteps   rText == $7.99                     01-Oct-2021 Friday PDT 14:57:02
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 19:43:13
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 19:43:26
+{INFO}  com.aspiration.base.TestBase   implicit wait for 5 seconds                     01-Oct-2021 Friday PDT 19:43:27
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 19:43:47
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 19:43:47
+{INFO}  stepDefinitions.HomePage   accepted cookie                     01-Oct-2021 Friday PDT 19:43:47
+{INFO}  stepDefinitions.HomePage   slept for 2000ms                     01-Oct-2021 Friday PDT 19:43:49
+{INFO}  stepDefinitions.HomePage   about to click spend and save                     01-Oct-2021 Friday PDT 19:43:49
+{INFO}  stepDefinitions.HomePage   clicked spend and save                     01-Oct-2021 Friday PDT 19:43:58
+{INFO}  stepDefinitions.HomePage   Aspiration                     01-Oct-2021 Friday PDT 19:43:59
+{INFO}  stepDefinitions.HomePage   Aspiration Plus                     01-Oct-2021 Friday PDT 19:43:59
+{INFO}  stepDefinitions.ProductPageSteps   Get Aspirations is displayed                     01-Oct-2021 Friday PDT 19:43:59
+{INFO}  stepDefinitions.ProductPageSteps   clicked on Get Aspirations                     01-Oct-2021 Friday PDT 19:43:59
+{INFO}  stepDefinitions.ProductPageSteps   modal contains email address input fields                     01-Oct-2021 Friday PDT 19:44:00
+{INFO}  stepDefinitions.ProductPageSteps   Navigated to previous product page.                     01-Oct-2021 Friday PDT 19:44:06
+{INFO}  stepDefinitions.ProductPageSteps   clicked spend and save                     01-Oct-2021 Friday PDT 19:44:09
+{INFO}  stepDefinitions.ProductPageSteps   clicked on Get Aspirations Plus                     01-Oct-2021 Friday PDT 19:44:10
+{INFO}  stepDefinitions.ProductPageSteps   Aspiration plus Modal is displayed                     01-Oct-2021 Friday PDT 19:44:10
+{INFO}  stepDefinitions.ProductPageSteps   nText == $71.88                     01-Oct-2021 Friday PDT 19:44:10
+{INFO}  stepDefinitions.ProductPageSteps   rText == $7.99                     01-Oct-2021 Friday PDT 19:44:10
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 19:52:38
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 19:52:50
+{INFO}  com.aspiration.base.TestBase   implicit wait for 5 seconds                     01-Oct-2021 Friday PDT 19:52:50
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 19:53:31
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 19:53:31
+{INFO}  stepDefinitions.HomePage   accepted cookie                     01-Oct-2021 Friday PDT 19:53:33
+{INFO}  stepDefinitions.HomePage   clicked spend and save                     01-Oct-2021 Friday PDT 19:53:57
+{INFO}  stepDefinitions.HomePage   Aspiration                     01-Oct-2021 Friday PDT 19:53:58
+{INFO}  stepDefinitions.HomePage   Aspiration Plus                     01-Oct-2021 Friday PDT 19:53:58
+{INFO}  stepDefinitions.ProductPageSteps   Get Aspirations is displayed                     01-Oct-2021 Friday PDT 19:53:58
+{INFO}  stepDefinitions.ProductPageSteps   clicked on Get Aspirations                     01-Oct-2021 Friday PDT 19:53:59
+{INFO}  stepDefinitions.ProductPageSteps   modal contains email address input fields                     01-Oct-2021 Friday PDT 19:53:59
+{INFO}  stepDefinitions.ProductPageSteps   Navigated to previous product page.                     01-Oct-2021 Friday PDT 19:54:10
+{INFO}  stepDefinitions.ProductPageSteps   clicked spend and save                     01-Oct-2021 Friday PDT 19:54:19
+{INFO}  stepDefinitions.ProductPageSteps   clicked on Get Aspirations Plus                     01-Oct-2021 Friday PDT 19:54:21
+{INFO}  stepDefinitions.ProductPageSteps   Aspiration plus Modal is displayed                     01-Oct-2021 Friday PDT 19:54:21
+{INFO}  stepDefinitions.ProductPageSteps   nText == $71.88                     01-Oct-2021 Friday PDT 19:54:22
+{INFO}  stepDefinitions.ProductPageSteps   rText == $7.99                     01-Oct-2021 Friday PDT 19:54:22
+{INFO}  com.aspiration.base.TestBase   Initializing step1 chrome driver                     01-Oct-2021 Friday PDT 19:56:26
+{INFO}  com.aspiration.base.TestBase   chrome browser object created                     01-Oct-2021 Friday PDT 19:56:34
+{INFO}  com.aspiration.base.TestBase   implicit wait for 3 seconds                     01-Oct-2021 Friday PDT 19:56:34
+{INFO}  stepDefinitions.HomePage   Started WebPage                     01-Oct-2021 Friday PDT 19:56:48
+{INFO}  stepDefinitions.HomePage   about to accept cookie                     01-Oct-2021 Friday PDT 19:56:48
+{INFO}  stepDefinitions.HomePage   accepted cookie                     01-Oct-2021 Friday PDT 19:56:48
+{INFO}  stepDefinitions.HomePage   clicked spend and save                     01-Oct-2021 Friday PDT 19:56:56
+{INFO}  stepDefinitions.HomePage   Aspiration                     01-Oct-2021 Friday PDT 19:56:57
+{INFO}  stepDefinitions.HomePage   Aspiration Plus                     01-Oct-2021 Friday PDT 19:56:57
+{INFO}  stepDefinitions.ProductPageSteps   Get Aspirations is displayed                     01-Oct-2021 Friday PDT 19:56:57
+{INFO}  stepDefinitions.ProductPageSteps   clicked on Get Aspirations                     01-Oct-2021 Friday PDT 19:56:57
+{INFO}  stepDefinitions.ProductPageSteps   modal contains email address input fields                     01-Oct-2021 Friday PDT 19:56:58
+{INFO}  stepDefinitions.ProductPageSteps   Navigated to previous product page.                     01-Oct-2021 Friday PDT 19:57:03
+{INFO}  stepDefinitions.ProductPageSteps   clicked spend and save                     01-Oct-2021 Friday PDT 19:57:08
+{INFO}  stepDefinitions.ProductPageSteps   clicked on Get Aspirations Plus                     01-Oct-2021 Friday PDT 19:57:08
+{INFO}  stepDefinitions.ProductPageSteps   Aspiration plus Modal is displayed                     01-Oct-2021 Friday PDT 19:57:09
+{INFO}  stepDefinitions.ProductPageSteps   nText == $71.88                     01-Oct-2021 Friday PDT 19:57:09
+{INFO}  stepDefinitions.ProductPageSteps   rText == $7.99                     01-Oct-2021 Friday PDT 19:57:09

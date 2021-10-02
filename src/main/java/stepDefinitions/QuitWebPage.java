@@ -1,15 +1,18 @@
 package stepDefinitions;
 
-import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.PageFactory;
+
+import com.aspiration.Locators;
+import com.aspiration.base.TestBase;
 
 import io.cucumber.java.en.Then;
 
-public class QuitWebPage extends AbstractStepDefinition {
+public class QuitWebPage extends TestBase {
 
-	private WebDriver driver = getDriver();
-	
+	Locators locator = PageFactory.initElements(driver, Locators.class);
+
 	@Then("^quit web page$")
-    public void quit_web_page() throws Throwable {
-        driver.quit();
-    }
+	public void quit_web_page() throws Throwable {
+		driver.quit();
+	}
 }

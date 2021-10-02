@@ -4,7 +4,7 @@ Feature: Open Aspirations home page and products page
 @Tag1
 Scenario: View products through Spend and Save link
 
-Given Open the chrome browser and visit the homepage
+Given homepage is displayed
 
 When User click to accept cookie
 And User navigates to the Spend and Save link and click
