@@ -1,6 +1,5 @@
 package com.aspiration;
 
-import java.io.IOException;
 import java.util.List;
 import java.util.Properties;
 import org.openqa.selenium.By;
@@ -70,7 +69,4 @@ public class Locators extends TestBase {
 		return saveAndSpend;
 	}
 
-	public void startWebPage() throws IOException {
-
-	}
 }

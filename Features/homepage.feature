@@ -4,8 +4,7 @@ Feature: Open Aspirations home page and products page
 @Tag1
 Scenario: View products through Spend and Save link
 
-Given homepage is displayed
-
+Given visit the homepage "https://aspiration.com"
 When User click to accept cookie
 And User navigates to the Spend and Save link and click
 Then User should be able to view Products and prices

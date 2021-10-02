@@ -1,8 +1,13 @@
 package stepDefinitions;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
+import java.util.concurrent.TimeUnit;
+
 import org.apache.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
@@ -22,10 +27,39 @@ public class HomePage extends TestBase {
 	Properties properties = new Properties();
 	Locators locator = PageFactory.initElements(driver, Locators.class);
 
-	@Given("^homepage is displayed$")
-	public void homepage_is_displayed() throws Throwable {
-		locator.startWebPage();
-		log.info("Started WebPage");
+	@Given("^visit the homepage \"([^\"]*)\"$")
+	public void visit_the_homepage_something(String strArg1) throws Throwable {
+
+		// maximize chrome browser page
+		driver.manage().window().maximize();
+
+		// implicit wait for page to load
+		driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
+		log.info("implicit wait for 3 seconds");
+
+		// create a file input stream
+		try {
+			FileInputStream inputStream = new FileInputStream(
+					"/Users/adekoyaadeeko/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE"
+							+ "/Aspiration-cucumber-demo/src/main/resources/testData.properties");
+
+			try {
+				// read the file
+				properties.load(inputStream);
+			} catch (IOException e) {
+				log.info(e);
+			}
+		} catch (FileNotFoundException e) {
+			log.info(e);
+		}
+
+		// get the value of the property using its key 'url'
+		String url = properties.getProperty("url");
+
+		// get website url
+		driver.get(url);
+		log.info("launched website");
+
 	}
 
 	@When("^User click to accept cookie$")
@@ -33,9 +67,7 @@ public class HomePage extends TestBase {
 
 		log.info("about to accept cookie");
 		locator.cookie().click();
-		;
 		log.info("accepted cookie");
-		Thread.sleep(2000);
 	}
 
 	@And("^User navigates to the Spend and Save link and click$")
