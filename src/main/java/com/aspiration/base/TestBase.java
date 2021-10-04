@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class TestBase {
 
-	Properties properties = new Properties();
+	protected Properties properties = new Properties();
 	public static WebDriver driver;
 	private static Logger log = Logger.getLogger(TestBase.class);
 

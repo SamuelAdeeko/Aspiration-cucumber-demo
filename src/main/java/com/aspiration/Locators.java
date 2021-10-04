@@ -1,7 +1,6 @@
 package com.aspiration;
 
 import java.util.List;
-import java.util.Properties;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -13,24 +12,23 @@ import com.aspiration.base.TestBase;
 public class Locators extends TestBase {
 
 	public WebDriver driver;
-	Properties properties = new Properties();
 
 	public Locators(WebDriver driver) {
 		this.driver = driver;
 	}
 
 	@FindBy(how = How.XPATH, using = "//input[@id='join-waitlist-input']")
-	WebElement emailField;
+	private WebElement emailField;
 	@FindBy(how = How.XPATH, using = "//button[@class='btn btn-v3 btn--blue ng-binding']")
-	WebElement aspirationCards;
+	private WebElement aspirationCards;
 	@FindBy(how = How.XPATH, using = "//div[@class='modal-content']")
-	WebElement modal;
+	private WebElement modal;
 	@FindBy(how = How.XPATH, using = "//b[@class= 'ng-binding']")
-	WebElement radioButton;
+	private WebElement radioButton;
 	@FindBy(how = How.XPATH, using = "//button[@id ='onetrust-accept-btn-handler']")
-	WebElement cookie;
+	private WebElement cookie;
 	@FindBy(how = How.PARTIAL_LINK_TEXT, using = "Spend & Save")
-	WebElement saveAndSpend;
+	private WebElement saveAndSpend;
 
 	public WebElement emailField() {
 

@@ -5,9 +5,6 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Properties;
-import java.util.concurrent.TimeUnit;
-
 import org.apache.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
@@ -24,7 +21,7 @@ public class HomePage extends TestBase {
 
 	WebDriver driver = getDriver();
 	private static Logger log = Logger.getLogger(HomePage.class);
-	Properties properties = new Properties();
+	// Properties properties = new Properties();
 	Locators locator = PageFactory.initElements(driver, Locators.class);
 
 	@Given("^visit the homepage \"([^\"]*)\"$")
@@ -33,15 +30,9 @@ public class HomePage extends TestBase {
 		// maximize chrome browser page
 		driver.manage().window().maximize();
 
-		// implicit wait for page to load
-		driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
-		log.info("implicit wait for 3 seconds");
-
 		// create a file input stream
 		try {
-			FileInputStream inputStream = new FileInputStream(
-					"/Users/adekoyaadeeko/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE"
-							+ "/Aspiration-cucumber-demo/src/main/resources/testData.properties");
+			FileInputStream inputStream = new FileInputStream("./src/main/resources/testData.properties");
 
 			try {
 				// read the file
